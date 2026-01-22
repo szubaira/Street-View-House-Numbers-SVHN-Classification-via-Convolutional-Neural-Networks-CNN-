@@ -12,11 +12,13 @@ Digit recognition from real-world images has widespread applications, including 
 
 The objective of this project was to design a robust deep learning solution that can reliably recognize digits under these realistic conditions, helping businesses automate processes that depend on accurate numeric information extraction.
 
-## Data Understanding (link to data: https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view?usp=sharing)
+## Data Understanding 
 
 The SVHN dataset consists of labeled images of digits (0–9) extracted from street-level imagery. Each image contains a single digit with variations in scale, color, orientation, and background. The dataset includes separate training and testing sets, allowing for proper model evaluation.
 
 Initial exploration focused on understanding image dimensions, label distribution, and pixel value ranges. Images were normalized and reshaped to ensure compatibility with convolutional neural network architectures.
+
+Link to data: https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view?usp=sharing)
 
 <img width="792" height="119" alt="Screen Shot 2026-01-23 at 01 06 17" src="https://github.com/user-attachments/assets/431ca346-c666-47e2-8b55-a3fcf8d3920d" />
 

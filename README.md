@@ -43,7 +43,6 @@ A convolutional neural network (CNN) was implemented using a deep learning frame
 Model performance was evaluated using accuracy metrics on validation and test datasets. The trained model demonstrated strong generalization ability, accurately recognizing digits across a wide range of image conditions. Performance improvements were achieved through tuning hyperparameters such as learning rate, batch size, and network depth.
 
 <img width="791" height="772" alt="Screen Shot 2026-01-23 at 01 05 38" src="https://github.com/user-attachments/assets/7e612f7f-e2da-4936-96d8-9e1b2c77a76f" />
-<img width="780" height="756" alt="Screen Shot 2026-01-23 at 01 06 10" src="https://github.com/user-attachments/assets/11334058-d7ae-4b6f-8f2b-e180b8e02928" />
 <img width="785" height="536" alt="Screen Shot 2026-01-23 at 01 06 47" src="https://github.com/user-attachments/assets/b5de8351-dc95-4617-933b-38b0bb0cabc4" />
 
 ## Conclusion
